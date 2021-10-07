@@ -7,7 +7,7 @@ body {
 	background: #FF9175;
 }
 .container {
-	width: 960px;
+	width: 100%;
 	margin: 0 auto;
 }
 .header {
